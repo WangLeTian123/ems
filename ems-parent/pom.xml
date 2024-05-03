@@ -8,6 +8,8 @@
   <modules>
     <module>ems-base</module>
     <module>ems-content</module>
+    <module>ems-generator</module>
+    <module>xuecheng-plus-system</module>
   </modules>
 
   <packaging>pom</packaging>
